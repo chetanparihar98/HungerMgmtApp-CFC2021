@@ -96,12 +96,9 @@ We are going to use a Rapid Development Model (rolling out updates over differen
 		
 # Getting Started with the app
 		
-Readme file [This file contains the steps to execute the demo of our solution.]
-Apk Folder [Contains the Apk file]
-Android Files [Contains all development files related to the Android Studio]
-Node.js App Files [Node.js App files]
-MongoDB Files [Schema description and structure, other inclusive files]
-OTP Service [Any files related to the working]
+[Android Application Project Files](#http://github.com/adithyaan/CFC-APP) 
+
+[Node.js App Files](#https://github.com/adithyaan/CFC21-RestApi)
 	
 # Built with 
 
