@@ -84,15 +84,15 @@ The solution consists of a Mobile Application, to give people a platform to host
 
 We are going to use a Rapid Development Model (rolling out updates over different periods of time) 
 
-* June 2021: Integrate LOGIN and MAPPING OF FOOD SPOTS Modules.
+* **June 2021:** Integrate LOGIN and MAPPING OF FOOD SPOTS Modules.
 
-* July 2021: Add BECOME AN ORGANIZATION and DONATE FOOD Modules.
+* **July 2021:** Add BECOME AN ORGANIZATION and DONATE FOOD Modules.
 
-* August 2021: Add BECOME A VOLUNTEER module and publish the app for survey.
+* **August 2021:** Add BECOME A VOLUNTEER module and publish the app for survey.
 
-* September 2021: Servey based Results leading to optimization in the 4 Modules and Bug Fixes.
+* **September 2021:** Servey based Results leading to optimization in the 4 Modules and Bug Fixes.
 
-* October 2021: Final Publish and post-publish module planning.
+* **October 2021:** Final Publish and post-publish module planning.
 		
 # Getting Started with the app
 		
@@ -102,24 +102,24 @@ We are going to use a Rapid Development Model (rolling out updates over differen
 	
 # Built with 
 
-* Android Studio: Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. 
+* **Android Studio:** Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. 
 
-* Mongo DB Atlas: MongoDB Atlas is the global cloud database service for modern applications.
+* **Mongo DB Atlas:** MongoDB Atlas is the global cloud database service for modern applications.
 
-* IBM CLoud foundry: Cloud Foundry is an open source, platform-as-a-service (PaaS) on IBM Cloud
+* **IBM CLoud foundry:** Cloud Foundry is an open source, platform-as-a-service (PaaS) on IBM Cloud
 
-* Node.js & NPM: Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
+* **Node.js & NPM:** Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
 
-* 2Factor.in OTP Service: 2Factor (Solv technologies) is popularly known as the best & reliable bulk sms gateway/service provider in India
+* **2Factor.in OTP Service:** 2Factor (Solv technologies) is popularly known as the best & reliable bulk sms gateway/service provider in India
 		
 # Working Team
 		
-* Chetan Parihar, Idea Analysis & Documentation, Refining and Technical Support
+* **Chetan Parihar**, Idea Analysis & Documentation, Refining and Technical Support
 
-* Adithya A N, Android Application Developer and Server Deployment
+* **Adithya A N**, Android Application Developer and Server Deployment
 		
-* Vivek Jadhav, Node.js & REST Services Developer
+* **Vivek Jadhav**, Node.js & REST Services Developer
 
-* Prateek Hadawale, Node.js & REST Services Developer
+* **Prateek Hadawale**, Node.js & REST Services Developer
 
-* Rahul Bindrani, Node.js & Web Services Developer
+* **Rahul Bindrani**, Node.js & Web Services Developer
