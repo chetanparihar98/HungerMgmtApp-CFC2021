@@ -67,46 +67,62 @@ The solution consists of a Mobile Application, to give people a platform to host
 # The Architecture 
 
 ![Architectural Diagram](https://user-images.githubusercontent.com/32700922/122092330-6a748680-ce27-11eb-894e-5effc0289876.jpg)
+	
+* The user will be able to access the App DASHBOARD via Login (Mobile Number and OTP based registration)
 
-![plot](#https://github.com/chetanparihar98/HungerMgmtApp-CFC2021/blob/1b7b26f2594367154766cbb8d234b92b588b5ce5/Architectural%20Diagram.jpg)
+* The DASHBOARD will present mainly 4 sections to every user viz. MAPPING OF FOOD SPOTS, BECOME AN ORGANIZATION, BECOME A VOLUNTEER and DONATE FOOD
+
+* All components interact with the Node.js Rest Services hosted on the IBM Cloud Foundry Environment via REST API Calls.
+
+* The Node.js Application is in turn synchronized with the MongoDB Altas for Database integration and an OTP Service for Token forwarding.
 	
-		1. The user will be able to access the App DASHBOARD via Login (Mobile Number and OTP based registration)
-		2. The DASHBOARD will present mainly 4 sections to every user viz. MAPPING OF FOOD SPOTS, BECOME AN ORGANIZATION, BECOME A VOLUNTEER and DONATE FOOD
-		3. All components interact with the Node.js Rest Services hosted on the IBM Cloud Foundry Environment via REST API Calls.
-		4. The Node.js Application is in turn synchronized with the MongoDB Altas for Database integration and an OTP Service for Token forwarding.
-	
-	
-	
-	Video Presentation
-	<Video file>
-	
-	Project Roadmap
-		We are going to use a Rapid Development Model (rolling out updates over different periods of time) 
-		June 2021: Integrate LOGIN and MAPPING OF FOOD SPOTS Modules.
-		July 2021: Add BECOME AN ORGANIZATION and DONATE FOOD Modules.
-		August 2021: Add BECOME A VOLUNTEER module and publish the app for survey.
-		September 2021: Servey based Results leading to optimization in the 4 Modules and Bug Fixes.
-		October 2021: Final Publish and post-publish module planning.
+# Video Presentation
+
+[<img src="http://img.youtube.com/vi/Z80UNwXPQJQ/0.jpg" width="75%" height="65%">](http://www.youtube.com/watch?v=Z80UNwXPQJQ "Video Title")
+
+# Project Roadmap
+
+We are going to use a Rapid Development Model (rolling out updates over different periods of time) 
+
+* June 2021: Integrate LOGIN and MAPPING OF FOOD SPOTS Modules.
+
+* July 2021: Add BECOME AN ORGANIZATION and DONATE FOOD Modules.
+
+* August 2021: Add BECOME A VOLUNTEER module and publish the app for survey.
+
+* September 2021: Servey based Results leading to optimization in the 4 Modules and Bug Fixes.
+
+* October 2021: Final Publish and post-publish module planning.
 		
-	
-	Getting Started
-		Readme file [This file contains the steps to execute the demo of our solution.]
-		Apk Folder [Contains the Apk file]
-		Android Files [Contains all development files related to the Android Studio]
-		Node.js App Files [Node.js App files]
-		MongoDB Files [Schema description and structure, other inclusive files]
-		OTP Service [Any files related to the working]
-	
-	Built with 
-		Android Studio: Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. 
-		Mongo DB Atlas: MongoDB Atlas is the global cloud database service for modern applications.
-		IBM CLoud foundry: Cloud Foundry is an open source, platform-as-a-service (PaaS) on IBM Cloud
-		Node.js & NPM: Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
-		<OTP Service>: <a google based small description about the specific otp service used>
+# Getting Started with the app
 		
-	Working Team (Name, Contribution)
-		Chetan Parihar, Idea Analysis & Documentation, Refining and Technical Support
-		Adithya A N, Android Application Developer and Server Deployment
-		Vivek Jadhav, Node.js & REST Services Developer
-		Prateek Hadawale, Node.js & REST Services Developer
-		Rahul Bindrani, Node.js & Web Services Developer
+Readme file [This file contains the steps to execute the demo of our solution.]
+Apk Folder [Contains the Apk file]
+Android Files [Contains all development files related to the Android Studio]
+Node.js App Files [Node.js App files]
+MongoDB Files [Schema description and structure, other inclusive files]
+OTP Service [Any files related to the working]
+	
+# Built with 
+
+* Android Studio: Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. 
+
+* Mongo DB Atlas: MongoDB Atlas is the global cloud database service for modern applications.
+
+* IBM CLoud foundry: Cloud Foundry is an open source, platform-as-a-service (PaaS) on IBM Cloud
+
+* Node.js & NPM: Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
+
+* 2Factor.in OTP Service: 2Factor (Solv technologies) is popularly known as the best & reliable bulk sms gateway/service provider in India
+		
+# Working Team
+		
+* Chetan Parihar, Idea Analysis & Documentation, Refining and Technical Support
+
+* Adithya A N, Android Application Developer and Server Deployment
+		
+* Vivek Jadhav, Node.js & REST Services Developer
+
+* Prateek Hadawale, Node.js & REST Services Developer
+
+* Rahul Bindrani, Node.js & Web Services Developer
