@@ -96,9 +96,9 @@ We are going to use a Rapid Development Model (rolling out updates over differen
 		
 # Getting Started with the app
 		
-![Android Application Project Files](#https://github.com/adithyaan/CFC-APP) 
+![Android Application Project Files](https://github.com/chetanparihar98/CFC21-RestApi) 
 
-![Node.js App Files](#https://github.com/adithyaan/CFC21-RestApi)
+![Node.js App Files](https://github.com/chetanparihar98/CFC-APP)
 	
 # Built with 
 
