@@ -103,9 +103,9 @@ The following two repositories contain the project specific files for building t
 
 Click on the below links to re-direct to the repositories related to the project. 
 		
-[Android Application Project Files](https://github.com/chetanparihar98/CFC21-RestApi) 
+[Android Application Project Files](https://github.com/chetanparihar98/CFC-APP)
 
-[Node.js App Files](https://github.com/chetanparihar98/CFC-APP)
+[Node.js App Files](https://github.com/chetanparihar98/CFC21-RestApi)
 	
 # Built with 
 
