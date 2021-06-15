@@ -51,20 +51,21 @@ Through technology, we can create platforms to integrate all this information in
 		
 The solution consists of a Mobile Application, to give people a platform to host food services and also accumulate volunteers for targeted NGO operations to reach the most remote disabled User.
 
-  * Solution Platform Components
+  * **Solution Platform Components**
 	
-    * **DASHBOARD **– A common access point for all services offered
+    * **DASHBOARD** – A common access point for all services offered
 		
-    * **MAPPING OF FOOD SPOTS **– A simple UI conveying information about all the free-food spots/drives available in the vicinity of the user. 
+    * **MAPPING OF FOOD SPOTS** – A simple UI conveying information about all the free-food spots/drives available in the vicinity of the user. 
 		
-    * **BECOME AN ORGANIZATION **– A section to use when a particular user wants to upgrade himself to an organizational entity (to create a food spot/drive OR Register for Volunteer based operations)
+    * **BECOME AN ORGANIZATION** – A section to use when a particular user wants to upgrade himself to an organizational entity (to create a food spot/drive OR Register for Volunteer based operations)
 		
-    * **BECOME A VOLUNTEER **– A section to apply for volunteer work to earn reward points based on the necessity.
+    * **BECOME A VOLUNTEER** – A section to apply for volunteer work to earn reward points based on the necessity.
 		
-    * **DONATE FOOD **– A section to donate food or create a food surplus request for real-time data analysis.
+    * **DONATE FOOD** – A section to donate food or create a food surplus request for real-time data analysis.
 
-# The Architecture
-
+# The Architecture 
+![Architecture_Image](#Architectural%20Diagram.jpg)
+![plot](#https://github.com/chetanparihar98/HungerMgmtApp-CFC2021/blob/1b7b26f2594367154766cbb8d234b92b588b5ce5/Architectural%20Diagram.jpg)
 	
 		1. The user will be able to access the App DASHBOARD via Login (Mobile Number and OTP based registration)
 		2. The DASHBOARD will present mainly 4 sections to every user viz. MAPPING OF FOOD SPOTS, BECOME AN ORGANIZATION, BECOME A VOLUNTEER and DONATE FOOD
