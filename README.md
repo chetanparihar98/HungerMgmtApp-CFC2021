@@ -1,5 +1,6 @@
 # Hunger Management App
-**Theme: **Zero Hunger 
+**Theme:** Zero Hunger 
+
 This repository discusses a solution to provide a platform to people to share information regarding free/inexpensive food-drives conducted by Governments, Private Firms, NGOs, and other such authorities through request-based and tokenized volunteer-based system.
 			 
 # Contents
@@ -64,7 +65,9 @@ The solution consists of a Mobile Application, to give people a platform to host
     * **DONATE FOOD** – A section to donate food or create a food surplus request for real-time data analysis.
 
 # The Architecture 
-![Architecture_Image](#Architectural%20Diagram.jpg)
+
+![Architectural Diagram](https://user-images.githubusercontent.com/32700922/122092330-6a748680-ce27-11eb-894e-5effc0289876.jpg)
+
 ![plot](#https://github.com/chetanparihar98/HungerMgmtApp-CFC2021/blob/1b7b26f2594367154766cbb8d234b92b588b5ce5/Architectural%20Diagram.jpg)
 	
 		1. The user will be able to access the App DASHBOARD via Login (Mobile Number and OTP based registration)
