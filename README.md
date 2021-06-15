@@ -7,7 +7,7 @@ This repository discusses a solution to provide a platform to people to share in
 	
   * [Submission or project name](#hunger-management-app)
 	* [Contents](#contents)
-	* [Long Description](#long-description)
+	* [Description](#description)
 		* Understanding the Scenarios
 		* Technology as a platform
 		* The solution
@@ -30,7 +30,7 @@ This repository discusses a solution to provide a platform to people to share in
 	* [Working Team](#working-team) 
 		
 
-# Long Description
+# Description
 * **Understanding the Scenarios**
 	* **Scenario 1:** 
 
@@ -95,6 +95,13 @@ We are going to use a Rapid Development Model (rolling out updates over differen
 * **October 2021:** Final Publish and post-publish module planning.
 		
 # Getting Started with the app
+
+The following two repositories contain the project specific files for building the APK. 
+* The Android Files contain the UI Activities (Login (along with OTP verification), Signup and Food Spots display by fetching results from the MongoDB Atlas) and the OTP Verification and Authorization Modules
+* The Node.js Files contains all the necessary modules and packages to build and run a node.js rest services app on the IBM Cloud Foundry Environment. 
+* Other Application modules (Become Org, Volunteer and Donate food) are yet to be implemented.
+
+Click on the below links to re-direct to the repositories related to the project. 
 		
 [Android Application Project Files](https://github.com/chetanparihar98/CFC21-RestApi) 
 
