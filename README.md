@@ -7,7 +7,8 @@ This repository discusses a solution to provide a platform to people to share in
 	
   * [Submission or project name](#hunger-management-app)
 	* [Contents](#contents)
-	* [Description](#description)
+	* [Short Description](#short-description)
+	* [Long Description](#long-description)
 		* Understanding the Scenarios
 		* Technology as a platform
 		* The solution
@@ -29,8 +30,11 @@ This repository discusses a solution to provide a platform to people to share in
 		* 2Factor.in OTP Service 
 	* [Working Team](#working-team) 
 		
+# Short Description
 
-# Description
+Informative Platform about Food Drives along with Food Donation & Volunteer Mechanism.  
+
+# Long Description
 * **Understanding the Scenarios**
 	* **Scenario 1:** 
 
@@ -113,12 +117,16 @@ Click on the below links to re-direct to the repositories related to the project
 
 * **Mongo DB Atlas:** MongoDB Atlas is the global cloud database service for modern applications.
 
-* **IBM CLoud foundry:** Cloud Foundry is an open source, platform-as-a-service (PaaS) on IBM Cloud
-
 * **Node.js & NPM:** Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
 
 * **2Factor.in OTP Service:** 2Factor (Solv technologies) is popularly known as the best & reliable bulk sms gateway/service provider in India
-		
+
+* **IBM Cloud Services included:**
+	
+	* **IBM CLoud foundry:** Cloud Foundry is an open source, platform-as-a-service (PaaS) on IBM Cloud
+	
+	* **IBM Cloudant Service:** (invoked by Cloud Foundry Environment)
+
 # Working Team
 		
 * **Chetan Parihar**, Idea Analysis & Documentation, Refining and Technical Support
